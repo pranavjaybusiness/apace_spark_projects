@@ -1,4 +1,4 @@
-List to datasets (data on git incomplete, only contains 600,000 entires due to size restrictions)
+Links to datasets (data on git incomplete, only contains 600,000 entires due to size restrictions)
 
 
 
