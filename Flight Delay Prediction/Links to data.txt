@@ -1,0 +1,7 @@
+List to datasets (data on git incomplete, only contains 600,000 entires due to size restrictions)
+
+
+
+https://www.kaggle.com/datasets/giovamata/airlinedelaycauses?rvi=1
+https://www.kaggle.com/datasets/usdot/flight-delays?rvi=1
+
